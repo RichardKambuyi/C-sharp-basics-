@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "name": "C#: ConsoleApp.HelloWorld",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\ConsoleApp.HelloWorld\\ConsoleApp.HelloWorld.csproj",
+            "launchConfigurationId": "TargetFramework=;ConsoleApp.HelloWorld"
+        }
+    ]
+}

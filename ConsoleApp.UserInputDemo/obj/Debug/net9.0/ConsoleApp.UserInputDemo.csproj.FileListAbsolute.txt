@@ -1,0 +1,15 @@
+C:\Users\admin\Web Dev\ConsoleApp.UserInputDemo\obj\Debug\net9.0\ConsoleApp.UserInputDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Web Dev\ConsoleApp.UserInputDemo\obj\Debug\net9.0\ConsoleApp.UserInputDemo.AssemblyInfoInputs.cache
+C:\Users\admin\Web Dev\ConsoleApp.UserInputDemo\obj\Debug\net9.0\ConsoleApp.UserInputDemo.AssemblyInfo.cs
+C:\Users\admin\Web Dev\ConsoleApp.UserInputDemo\obj\Debug\net9.0\ConsoleApp.UserInputDemo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Web Dev\ConsoleApp.UserInputDemo\obj\Debug\net9.0\ConsoleApp.UserInputDemo.sourcelink.json
+C:\Users\admin\Web Dev\ConsoleApp.UserInputDemo\bin\Debug\net9.0\ConsoleApp.UserInputDemo.exe
+C:\Users\admin\Web Dev\ConsoleApp.UserInputDemo\bin\Debug\net9.0\ConsoleApp.UserInputDemo.deps.json
+C:\Users\admin\Web Dev\ConsoleApp.UserInputDemo\bin\Debug\net9.0\ConsoleApp.UserInputDemo.runtimeconfig.json
+C:\Users\admin\Web Dev\ConsoleApp.UserInputDemo\bin\Debug\net9.0\ConsoleApp.UserInputDemo.dll
+C:\Users\admin\Web Dev\ConsoleApp.UserInputDemo\bin\Debug\net9.0\ConsoleApp.UserInputDemo.pdb
+C:\Users\admin\Web Dev\ConsoleApp.UserInputDemo\obj\Debug\net9.0\ConsoleApp.UserInputDemo.dll
+C:\Users\admin\Web Dev\ConsoleApp.UserInputDemo\obj\Debug\net9.0\refint\ConsoleApp.UserInputDemo.dll
+C:\Users\admin\Web Dev\ConsoleApp.UserInputDemo\obj\Debug\net9.0\ConsoleApp.UserInputDemo.pdb
+C:\Users\admin\Web Dev\ConsoleApp.UserInputDemo\obj\Debug\net9.0\ConsoleApp.UserInputDemo.genruntimeconfig.cache
+C:\Users\admin\Web Dev\ConsoleApp.UserInputDemo\obj\Debug\net9.0\ref\ConsoleApp.UserInputDemo.dll

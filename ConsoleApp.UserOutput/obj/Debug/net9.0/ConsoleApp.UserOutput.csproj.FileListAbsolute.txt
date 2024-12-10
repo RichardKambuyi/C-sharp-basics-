@@ -1,0 +1,15 @@
+C:\Users\admin\Web Dev\ConsoleApp.UserOutput\bin\Debug\net9.0\ConsoleApp.UserOutput.exe
+C:\Users\admin\Web Dev\ConsoleApp.UserOutput\bin\Debug\net9.0\ConsoleApp.UserOutput.deps.json
+C:\Users\admin\Web Dev\ConsoleApp.UserOutput\bin\Debug\net9.0\ConsoleApp.UserOutput.runtimeconfig.json
+C:\Users\admin\Web Dev\ConsoleApp.UserOutput\bin\Debug\net9.0\ConsoleApp.UserOutput.dll
+C:\Users\admin\Web Dev\ConsoleApp.UserOutput\bin\Debug\net9.0\ConsoleApp.UserOutput.pdb
+C:\Users\admin\Web Dev\ConsoleApp.UserOutput\obj\Debug\net9.0\ConsoleApp.UserOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Web Dev\ConsoleApp.UserOutput\obj\Debug\net9.0\ConsoleApp.UserOutput.AssemblyInfoInputs.cache
+C:\Users\admin\Web Dev\ConsoleApp.UserOutput\obj\Debug\net9.0\ConsoleApp.UserOutput.AssemblyInfo.cs
+C:\Users\admin\Web Dev\ConsoleApp.UserOutput\obj\Debug\net9.0\ConsoleApp.UserOutput.csproj.CoreCompileInputs.cache
+C:\Users\admin\Web Dev\ConsoleApp.UserOutput\obj\Debug\net9.0\ConsoleApp.UserOutput.sourcelink.json
+C:\Users\admin\Web Dev\ConsoleApp.UserOutput\obj\Debug\net9.0\ConsoleApp.UserOutput.dll
+C:\Users\admin\Web Dev\ConsoleApp.UserOutput\obj\Debug\net9.0\refint\ConsoleApp.UserOutput.dll
+C:\Users\admin\Web Dev\ConsoleApp.UserOutput\obj\Debug\net9.0\ConsoleApp.UserOutput.pdb
+C:\Users\admin\Web Dev\ConsoleApp.UserOutput\obj\Debug\net9.0\ConsoleApp.UserOutput.genruntimeconfig.cache
+C:\Users\admin\Web Dev\ConsoleApp.UserOutput\obj\Debug\net9.0\ref\ConsoleApp.UserOutput.dll
