@@ -1,0 +1,14 @@
+c:\Users\admin\Web Dev\ConsoleApp.Demo\bin\Debug\net9.0\ConsoleApp.OutputDemo.exe
+c:\Users\admin\Web Dev\ConsoleApp.Demo\bin\Debug\net9.0\ConsoleApp.OutputDemo.deps.json
+c:\Users\admin\Web Dev\ConsoleApp.Demo\bin\Debug\net9.0\ConsoleApp.OutputDemo.runtimeconfig.json
+c:\Users\admin\Web Dev\ConsoleApp.Demo\bin\Debug\net9.0\ConsoleApp.OutputDemo.dll
+c:\Users\admin\Web Dev\ConsoleApp.Demo\bin\Debug\net9.0\ConsoleApp.OutputDemo.pdb
+c:\Users\admin\Web Dev\ConsoleApp.Demo\obj\Debug\net9.0\ConsoleApp.OutputDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\admin\Web Dev\ConsoleApp.Demo\obj\Debug\net9.0\ConsoleApp.OutputDemo.AssemblyInfoInputs.cache
+c:\Users\admin\Web Dev\ConsoleApp.Demo\obj\Debug\net9.0\ConsoleApp.OutputDemo.AssemblyInfo.cs
+c:\Users\admin\Web Dev\ConsoleApp.Demo\obj\Debug\net9.0\ConsoleApp.OutputDemo.csproj.CoreCompileInputs.cache
+c:\Users\admin\Web Dev\ConsoleApp.Demo\obj\Debug\net9.0\ConsoleApp.OutputDemo.dll
+c:\Users\admin\Web Dev\ConsoleApp.Demo\obj\Debug\net9.0\refint\ConsoleApp.OutputDemo.dll
+c:\Users\admin\Web Dev\ConsoleApp.Demo\obj\Debug\net9.0\ConsoleApp.OutputDemo.pdb
+c:\Users\admin\Web Dev\ConsoleApp.Demo\obj\Debug\net9.0\ConsoleApp.OutputDemo.genruntimeconfig.cache
+c:\Users\admin\Web Dev\ConsoleApp.Demo\obj\Debug\net9.0\ref\ConsoleApp.OutputDemo.dll

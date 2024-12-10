@@ -1,0 +1,15 @@
+C:\Users\admin\Web Dev\ConsoleApp.operator\obj\Debug\net9.0\ConsoleApp.operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Web Dev\ConsoleApp.operator\obj\Debug\net9.0\ConsoleApp.operator.AssemblyInfoInputs.cache
+C:\Users\admin\Web Dev\ConsoleApp.operator\obj\Debug\net9.0\ConsoleApp.operator.AssemblyInfo.cs
+C:\Users\admin\Web Dev\ConsoleApp.operator\obj\Debug\net9.0\ConsoleApp.operator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Web Dev\ConsoleApp.operator\obj\Debug\net9.0\ConsoleApp.operator.sourcelink.json
+C:\Users\admin\Web Dev\ConsoleApp.operator\bin\Debug\net9.0\ConsoleApp.operator.exe
+C:\Users\admin\Web Dev\ConsoleApp.operator\bin\Debug\net9.0\ConsoleApp.operator.deps.json
+C:\Users\admin\Web Dev\ConsoleApp.operator\bin\Debug\net9.0\ConsoleApp.operator.runtimeconfig.json
+C:\Users\admin\Web Dev\ConsoleApp.operator\bin\Debug\net9.0\ConsoleApp.operator.dll
+C:\Users\admin\Web Dev\ConsoleApp.operator\bin\Debug\net9.0\ConsoleApp.operator.pdb
+C:\Users\admin\Web Dev\ConsoleApp.operator\obj\Debug\net9.0\ConsoleApp.operator.dll
+C:\Users\admin\Web Dev\ConsoleApp.operator\obj\Debug\net9.0\refint\ConsoleApp.operator.dll
+C:\Users\admin\Web Dev\ConsoleApp.operator\obj\Debug\net9.0\ConsoleApp.operator.pdb
+C:\Users\admin\Web Dev\ConsoleApp.operator\obj\Debug\net9.0\ConsoleApp.operator.genruntimeconfig.cache
+C:\Users\admin\Web Dev\ConsoleApp.operator\obj\Debug\net9.0\ref\ConsoleApp.operator.dll

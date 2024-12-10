@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ConsoleApp.UserInput1/1.0.0": {
+        "runtime": {
+          "ConsoleApp.UserInput1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp.UserInput1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

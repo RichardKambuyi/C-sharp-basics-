@@ -1,0 +1,15 @@
+c:\Users\admin\Web Dev\ConsoleApp.HelloWorld\bin\Debug\net9.0\ConsoleApp.HelloWorld.exe
+c:\Users\admin\Web Dev\ConsoleApp.HelloWorld\bin\Debug\net9.0\ConsoleApp.HelloWorld.deps.json
+c:\Users\admin\Web Dev\ConsoleApp.HelloWorld\bin\Debug\net9.0\ConsoleApp.HelloWorld.runtimeconfig.json
+c:\Users\admin\Web Dev\ConsoleApp.HelloWorld\bin\Debug\net9.0\ConsoleApp.HelloWorld.dll
+c:\Users\admin\Web Dev\ConsoleApp.HelloWorld\bin\Debug\net9.0\ConsoleApp.HelloWorld.pdb
+c:\Users\admin\Web Dev\ConsoleApp.HelloWorld\obj\Debug\net9.0\ConsoleApp.HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\admin\Web Dev\ConsoleApp.HelloWorld\obj\Debug\net9.0\ConsoleApp.HelloWorld.AssemblyInfoInputs.cache
+c:\Users\admin\Web Dev\ConsoleApp.HelloWorld\obj\Debug\net9.0\ConsoleApp.HelloWorld.AssemblyInfo.cs
+c:\Users\admin\Web Dev\ConsoleApp.HelloWorld\obj\Debug\net9.0\ConsoleApp.HelloWorld.csproj.CoreCompileInputs.cache
+c:\Users\admin\Web Dev\ConsoleApp.HelloWorld\obj\Debug\net9.0\ConsoleApp.HelloWorld.dll
+c:\Users\admin\Web Dev\ConsoleApp.HelloWorld\obj\Debug\net9.0\refint\ConsoleApp.HelloWorld.dll
+c:\Users\admin\Web Dev\ConsoleApp.HelloWorld\obj\Debug\net9.0\ConsoleApp.HelloWorld.pdb
+c:\Users\admin\Web Dev\ConsoleApp.HelloWorld\obj\Debug\net9.0\ConsoleApp.HelloWorld.genruntimeconfig.cache
+c:\Users\admin\Web Dev\ConsoleApp.HelloWorld\obj\Debug\net9.0\ref\ConsoleApp.HelloWorld.dll
+c:\Users\admin\Web Dev\ConsoleApp.HelloWorld\obj\Debug\net9.0\ConsoleApp.HelloWorld.sourcelink.json
